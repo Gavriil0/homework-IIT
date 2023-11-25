@@ -1,0 +1,12 @@
+:root {
+    --white: #FFFFFF;
+    --black: #000000;
+}
+body {
+    background: var(--bg);
+    color: var(--fontColor);
+    font-family: helvetica;
+}
+.podval {
+height: 200px;
+}
